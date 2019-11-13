@@ -9,3 +9,8 @@
 - [X] View current version of the page
 - [X] `Make Current` admin page change form action
 - [X] Token authentication
+
+
+## Example of versions assignation:
+
+![Versions assignation](readme_images/versions_assignation.png)
