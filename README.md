@@ -8,3 +8,4 @@
 - [X] View any version of the page
 - [X] View current version of the page
 - [X] `Make Current` admin page change form action
+- [X] Token authentication
